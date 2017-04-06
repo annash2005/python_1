@@ -1,0 +1,35 @@
+    Write a program to print all natural numbers from 1 to n. - using while loop
+    Write a program to print all natural numbers in reverse (from n to 1). - using while loop
+    Write a program to print all alphabets from a to z. - using while loop
+    Write a program to print all even numbers between 1 to 100. - using while loop
+    Write a program to print all odd number between 1 to 100.
+
+Casino game
+program morskoi boi
+sorting
+stack algorythm
+tic tac toe
+FIFO
+Write a program to print sum of all even numbers between 1 to n.
+Write a program to print sum of all odd numbers between 1 to n.
+Write a program to print table of any number.
+Write a program to enter any number and calculate sum of all natural numbers between 1 to n.
+
+
+Write a program that prints ‘Hello World’ to the screen.
+Write a program that asks the user for her name and greets her with her name.
+Modify the previous program such that only the users Alice and Bob are greeted with their names.
+Write the program that tells if the password for Alice is write or wrong
+Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. I counts only as one try if they input the same number multiple times consecutively.
+Write a program that gueses the secret number from the user
+Write a color guessing game one color
+Write a color guessing game two colors
+Write a color guessing, with positions
+
+Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
+Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
+Write a program that asks the user for a number n and gives him the possibility to choose between computing the sum and computing the product of 1,…,n.
+Write a program that prints a multiplication table for numbers up to 12.
+Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
+
+Write a program that prints the next 20 leap years.
