@@ -14,9 +14,11 @@ import random
 #print(random.randint(0,1))# 0 menas red 1 means black
 
 money=100
+
 user_bet_int = 0
 while (money>0):
-    color=input("What color? b for Black or r for Red?")
+    #color = 'b'
+    color=input('What color? b for Black or r for Red?')
     if(color=='b'):
         user_bet_int = 1
     else:
